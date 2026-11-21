@@ -18,7 +18,7 @@ Open to **Lead Software Engineer** roles in Addis Ababa (Hybrid / Remote).
 ## Skills
 
 - **Frontend:** React, Next.js, HTML, CSS, JavaScript, responsive web design, UI/UX, WordPress
-- **Backend:** Node.js / Express, Python, REST APIs
+- **Backend:** Node.js / Express, Python, Java, C#, PHP, REST APIs
 - **Data & platforms:** Databases, Git & GitHub, GitHub Pages, AI-assisted development
 - **Databases & desktop:** MongoDB, Database Administration, Desktop Application Development
 
